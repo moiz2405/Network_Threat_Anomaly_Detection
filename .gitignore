@@ -6,6 +6,9 @@ __pycache__/
 # Virtual environment
 .venv/
 env/
+data/CICIDS2017.csv
+data/X_scaled.npy
+*.so
 
 # VS Code settings
 .vscode/
